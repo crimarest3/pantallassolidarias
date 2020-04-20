@@ -76,4 +76,4 @@
 {"type":"Feature","properties":{"CANTIDAD":"20","MUNICIPIO":"Villanueva del Rey","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-5.1516777, 38.1978857]}},
 {"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Zaragoza","PROVINCIA":"Zaragoza (Spain)"},"geometry":{"type":"Point","coordinates":[-0.8890853, 41.6488226]}},
 {"type":"Feature","properties":{"CANTIDAD":"10","MUNICIPIO":"Zújar","PROVINCIA":"Granada"},"geometry":{"type":"Point","coordinates":[-2.8415046, 37.5393714]}}
-], "title": "Equipo  ZONA SUR DE CÓRDOBA_20/04/2020"}
+], "title": "Equipo  ZONA SUR DE CÓRDOBA_20/04/2020_10050"}
