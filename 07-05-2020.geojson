@@ -16,7 +16,7 @@
 {"type":"Feature","properties":{"CANTIDAD":"208","MUNICIPIO":"Castro del Río","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.4795619, 37.6887179]}},
 {"type":"Feature","properties":{"CANTIDAD":"3","MUNICIPIO":"Cerro Perea","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.983638, 37.5894106]}},
 {"type":"Feature","properties":{"CANTIDAD":"25","MUNICIPIO":"Condes de Corbull","PROVINCIA":"Jaén"},"geometry":{"type":"Point","coordinates":[-3.790960099999999, 37.7641453]}},
-{"type":"Feature","properties":{"CANTIDAD":"910","MUNICIPIO":"Córdoba","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-64.1887761, -31.42008329999999]}},
+{"type":"Feature","properties":{"CANTIDAD":"910","MUNICIPIO":"Córdoba","PROVINCIA":"España"},"geometry":{"type":"Point","coordinates":[-4.7793835, 37.8881751]}},
 {"type":"Feature","properties":{"CANTIDAD":"13","MUNICIPIO":"Dehesas de Guadix","PROVINCIA":"Granada"},"geometry":{"type":"Point","coordinates":[-3.1045944, 37.5893286]}},
 {"type":"Feature","properties":{"CANTIDAD":"40","MUNICIPIO":"Doña Mencía","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.3577976, 37.5544848]}},
 {"type":"Feature","properties":{"CANTIDAD":"22","MUNICIPIO":"Dos Torres","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.8974549, 38.44463349999999]}},
@@ -75,23 +75,11 @@
 {"type":"Feature","properties":{"CANTIDAD":"23","MUNICIPIO":"Sevilla","PROVINCIA":"Sevilla"},"geometry":{"type":"Point","coordinates":[-5.9844589, 37.3890924]}},
 {"type":"Feature","properties":{"CANTIDAD":"100","MUNICIPIO":"Soria","PROVINCIA":"Soria"},"geometry":{"type":"Point","coordinates":[-2.4790306, 41.7665972]}},
 {"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Umbrete","PROVINCIA":"Sevilla"},"geometry":{"type":"Point","coordinates":[-6.1566754, 37.3681512]}},
-{"type":"Feature","properties":{"CANTIDAD":"2","MUNICIPIO":"Villanueva de Córdoba","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.628506199999999, 38.3222465]}}
-{"type":"Feature","properties":{"CANTIDAD":"20","MUNICIPIO":"Villanueva del Rey","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-5.1516777, 38.1978857]}}
-{"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Zaragoza","PROVINCIA":"Zaragoza"},"geometry":{"type":"Point","coordinates":[-0.8890853, 41.6488226]}}
-{"type":"Feature","properties":{"CANTIDAD":"30","MUNICIPIO":"Zuheros","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.3147802, 37.5434277]}}
-{"type":"Feature","properties":{"CANTIDAD":"10","MUNICIPIO":"Zújar","PROVINCIA":"Granada"},"geometry":{"type":"Point","coordinates":[-2.8415046, 37.5393714]}}
-{"type":"Feature","properties":{"CANTIDAD":"10","MUNICIPIO":"Algámitas","PROVINCIA":"Sevilla"},"geometry":{"type":"Point","coordinates":[-5.149121, 37.0163388]}}
+{"type":"Feature","properties":{"CANTIDAD":"2","MUNICIPIO":"Villanueva de Córdoba","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.628506199999999, 38.3222465]}},
+{"type":"Feature","properties":{"CANTIDAD":"20","MUNICIPIO":"Villanueva del Rey","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-5.1516777, 38.1978857]}},
+{"type":"Feature","properties":{"CANTIDAD":"1","MUNICIPIO":"Zaragoza","PROVINCIA":"Zaragoza"},"geometry":{"type":"Point","coordinates":[-0.8890853, 41.6488226]}},
+{"type":"Feature","properties":{"CANTIDAD":"30","MUNICIPIO":"Zuheros","PROVINCIA":"Córdoba"},"geometry":{"type":"Point","coordinates":[-4.3147802, 37.5434277]}},
+{"type":"Feature","properties":{"CANTIDAD":"10","MUNICIPIO":"Zújar","PROVINCIA":"Granada"},"geometry":{"type":"Point","coordinates":[-2.8415046, 37.5393714]}},
+{"type":"Feature","properties":{"CANTIDAD":"10","MUNICIPIO":"Algámitas","PROVINCIA":"Sevilla"},"geometry":{"type":"Point","coordinates":[-5.149121, 37.0163388]}},
 {"type":"Feature","properties":{"CANTIDAD":"14","MUNICIPIO":"El Saucejo","PROVINCIA":"Sevilla"},"geometry":{"type":"Point","coordinates":[-5.0976161, 37.0741908]}}
-
-
-
-
-
-
-
-
-
-
-
-
 ], "title": "Equipo  ZONA SUR DE CÓRDOBA_07/05/2020"}
